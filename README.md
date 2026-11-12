@@ -53,9 +53,13 @@ Período analizado: enero de 2025 a octubre de 2026.
 
 ### Página 1 — Desempeño general
 
+![Dashboard de desempeño general](01_Desempeno_General.png)
+
 Incluye indicadores de facturación, rentabilidad y operaciones, evolución mensual de ventas, comparación entre sucursales y categorías de productos, y ranking de vendedores.
 
 ### Página 2 — Clientes y rentabilidad
+
+![Dashboard de clientes y rentabilidad](02_Clientes_Rentabilidad.png)
 
 Incluye análisis de clientes activos, facturación y ganancia promedio por cliente, participación de ingresos por segmento, márgenes comerciales, ranking de clientes y concentración de facturación.
 
